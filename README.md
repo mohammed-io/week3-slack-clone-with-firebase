@@ -1,1 +1,1 @@
-# week3-trello-clone-with-firebase
+# week3-slack-clone-with-firebase
